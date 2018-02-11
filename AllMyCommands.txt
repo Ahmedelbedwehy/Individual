@@ -9,3 +9,10 @@ git push origin master
 git commit -m "Second"
 git checkout -b ReadMe
 git push origin Readme
+git checkout master
+git pull origin master
+git merge ReadMe
+git push origin master
+git add .
+git commit -m "RM commit"
+git push origin master
