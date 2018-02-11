@@ -3,4 +3,5 @@ git config --global user.name "Ahmedelbedwehy"
 git config --global user.email "ahmedelbedwehy@hotmail.com"
 git add.
 git commit -m "First commit"
+git rebase origin/master
 git push origin master
