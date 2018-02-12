@@ -4,8 +4,6 @@ git config --global user.email "ahmedelbedwehy@hotmail.com"
 git add.
 git rm '/c/Users/ahmed/Desktop/SE/Part 2.txt'
 git checkout -f
-git commit -m "First commit"
-git push origin master
 git commit -m "Second"
 git checkout -b ReadMe
 git push origin Readme
